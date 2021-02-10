@@ -5,7 +5,7 @@ Metrics
 
 ## Install
 
-Clone this repository on your Docker host, cd into dockprom directory and run compose up:
+Clone this repository on your Docker host, cd into directory and run compose up:
 
 ```bash
 
